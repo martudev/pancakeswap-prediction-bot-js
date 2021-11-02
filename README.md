@@ -1,1 +1,1 @@
-# 🔮 PancakeSwap Prediction Bot
+# 🧠 PancakeSwap Prediction Bot 🧙
